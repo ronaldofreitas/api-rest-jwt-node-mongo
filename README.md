@@ -1,17 +1,18 @@
 # Simples API Rest (JWT) com Node/Express, Mongo/Mongoose
 
 Simples API Rest utilizada para servir a aplicação de exemplo (ver frontend ao final).
-O banco MongoDB hospedado no Mongo Atlas
-O backend (API Rest) e o frontend (Angular 7 ) ambos hospedados no Heroku
+O banco MongoDB está hospedado no Mongo Atlas
+O backend (API Rest) e o frontend (Angular 7) ambos hospedados no Heroku
 
-Acessar o link abaixo para ver o exemplo:
+
+Acessar o link abaixo para ver o exemplo da aplicação:
 
 ## [https://app-angular-ronaldo.herokuapp.com](https://app-angular-ronaldo.herokuapp.com/)
 
 
 ### Sobre o projeto
 
-Nesse exemplo, temos uma aplicação onde o usuário poderá cadastrar Filmes e Categorias de filmes, bem como baixar o aplicativo (Ionic 4) para que seja possível postar comentários sobre os filmes cadastrados nessa aplicação.
+Nesse exemplo, temos uma aplicação cujo usuário poderá cadastrar Filmes e Categorias de filmes, bem como, após baixar e instalar o aplicativo (Ionic 4), poderá postar comentários sobre os filmes cadastrados nessa aplicação.
 
 
 ### Ambiente de desenvolvimento
@@ -27,12 +28,14 @@ Nesse exemplo, temos uma aplicação onde o usuário poderá cadastrar Filmes e 
 
 ```bash
 $ git clone https://github.com/ronaldofreitas/api-rest-jwt-node-mongo.git
-$ cd angular7-to-api-rest-node
+$ cd api-rest-jwt-node-mongo
 $ npm install
 $ npm run dev
 ```
 
 ### Frontend
+
+Acessa o link abaixo para ver o exemplo:
 
 ## [https://github.com/ronaldofreitas/angular7-api-rest-jwt-node-mongo](hhttps://github.com/ronaldofreitas/angular7-api-rest-jwt-node-mongo)
 
