@@ -1,0 +1,31 @@
+{
+  "name": "api_rest_exmplo",
+  "version": "0.0.2",
+  "description": "Exemplo API REST [nodejs, express,jwt e mongodb]",
+  "engines": {
+    "node": "10.15.2",
+    "npm": "6.12.0"
+  },
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Ronaldo Freitas",
+  "license": "ISC",
+  "dependencies": {
+    "bcrypt": "2.0.1",
+    "body-parser": "1.18.2",
+    "cors": "^2.8.5",
+    "dotenv-safe": "^8.1.0",
+    "express": "4.16.3",
+    "helmet": "^3.21.2",
+    "jsonwebtoken": "8.2.1",
+    "mongoose": "^5.7.8",
+    "morgan": "^1.9.1"
+  },
+  "devDependencies": {
+    "eslint": "4.19.1"
+  }
+}
