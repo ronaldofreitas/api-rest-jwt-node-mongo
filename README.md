@@ -7,7 +7,7 @@ O backend (API Rest) e o frontend (Angular 7) ambos hospedados no Heroku
 
 Acessar o link abaixo para ver o exemplo da aplicação:
 
-## [https://app-angular-ronaldo.herokuapp.com](https://app-angular-ronaldo.herokuapp.com/)
+## [https://angular-app-rest-node.herokuapp.com](https://angular-app-rest-node.herokuapp.com)
 
 
 ### Sobre o projeto
