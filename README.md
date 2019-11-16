@@ -40,6 +40,14 @@ Acessa o link abaixo para ver o exemplo:
 ## [https://github.com/ronaldofreitas/angular7-api-rest-jwt-node-mongo](hhttps://github.com/ronaldofreitas/angular7-api-rest-jwt-node-mongo)
 
 
+
 ### Aplicativo
 
-em breve
+Repositório do app:
+## [Github](https://github.com/ronaldofreitas/app-ionic-4)
+
+
+Baixe o aplicativo:
+## [Google Play](https://play.google.com/store/apps/details?id=filmes.app.br)
+
+
